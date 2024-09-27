@@ -1,4 +1,4 @@
-# MNIST
+# Image MNIST Classification
 Takes the builtin TensorFlow dataset, MNIST, and applied the Convolutional Neural Network to test the accuracy at detecting the handwritten digits with a 99% accuracy. This model consists of techniques that prevent the overfitting of the model with the assistance of batch normalizaiton, and dropout methods.
 Illustrates basic CNN structures using tensorflow including methods that regularize and normalize the data along the way to avoid overfitting the dataset.
 
